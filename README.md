@@ -9,7 +9,6 @@
 
 ### Screenhots
 
-| <img src="https://github.com/EforestHD/Snap-Carousel-View/blob/main/Pictures/video.gif" width="800" /> | <img src="https://github.com/EforestHD/Snap-Carousel-View/blob/main/Pictures/mockup.png" width="800" /> | 
-
-
+|   <img src="https://github.com/EforestHD/Snap-Carousel-View/blob/main/Pictures/video.gif" width="800" />             | <img src="https://github.com/EforestHD/Snap-Carousel-View/blob/main/Pictures/mockup.png" width="800" />                         |
+|----------------|-------------------------------|-----------------------------|
 
